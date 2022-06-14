@@ -65,13 +65,8 @@ Technologies and Languages </h2>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Bhushan-001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-<div align="center">
-	
 
-![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya-Bhushan-001&layout=compact&theme=synthwave&v=2)
-
-
-</div>
+<br>
 <div align="center">
   
 
