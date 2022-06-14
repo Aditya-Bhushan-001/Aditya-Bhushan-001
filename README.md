@@ -1,13 +1,8 @@
-# Bio
+
 <h1 align="center">Hi 👋, I'm Gunaditya Regidi</h1>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Aditya-Bhushan-001&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -70,3 +65,16 @@ Technologies and Languages </h2>
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Bhushan-001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<div align="center">
+	
+
+![Aditya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya-Bhushan-001&layout=compact&theme=synthwave&v=2)
+
+
+</div>
+<div align="center">
+  
+
+### Show ❤️ by 🌟 my [repositories](https://github.com/Aditya-Bhushan-001?tab=repositories)!
+
+</div>
